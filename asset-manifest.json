@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paination_react_demo/static/css/main.ba5897f2.css",
+    "main.js": "/paination_react_demo/static/js/main.24c57712.js",
+    "static/js/453.0ff54ecd.chunk.js": "/paination_react_demo/static/js/453.0ff54ecd.chunk.js",
+    "index.html": "/paination_react_demo/index.html",
+    "main.ba5897f2.css.map": "/paination_react_demo/static/css/main.ba5897f2.css.map",
+    "main.24c57712.js.map": "/paination_react_demo/static/js/main.24c57712.js.map",
+    "453.0ff54ecd.chunk.js.map": "/paination_react_demo/static/js/453.0ff54ecd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba5897f2.css",
+    "static/js/main.24c57712.js"
+  ]
+}
